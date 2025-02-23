@@ -1,0 +1,8 @@
+[package]
+name = "minesweeper"
+version = "0.1.0"
+authors = ["Your Name <you@example.com>"]
+edition = "2025"
+
+[dependencies]
+rand = "0.8"
